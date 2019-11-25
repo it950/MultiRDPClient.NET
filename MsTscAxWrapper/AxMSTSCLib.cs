@@ -9,6 +9,8 @@
 //------------------------------------------------------------------------------
 
 //[assembly: System.Reflection.AssemblyVersion("1.0.0.0")]
+using MSTSCLib;
+
 [assembly: System.Windows.Forms.AxHost.TypeLibraryTimeStamp("8/4/2004 9:07:00 AM")]
 
 namespace AxMSTSCLib {
@@ -665,7 +667,97 @@ namespace AxMSTSCLib {
             this.parent.RaiseOnOnAutoReconnecting(this.parent, onautoreconnectingEvent);
             pArcContinueStatus = onautoreconnectingEvent.pArcContinueStatus;
         }
-    }
+
+		public bool OnConfirmClose()
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public bool OnReceivedTSPublicKey(string publicKey)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public AutoReconnectContinueState OnAutoReconnecting(int disconnectReason, int attemptCount)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnAuthenticationWarningDisplayed()
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnAuthenticationWarningDismissed()
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnRemoteProgramResult(string bstrRemoteProgram, RemoteProgramResult lError, bool vbIsExecutable)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnRemoteProgramDisplayed(bool vbDisplayed, uint uDisplayInformation)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnRemoteWindowDisplayed(bool vbDisplayed, ref _RemotableHandle hwnd, RemoteWindowDisplayedAttribute windowAttribute)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnLogonError(int lError)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnFocusReleased(int iDirection)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnUserNameAcquired(string bstrUserName)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnMouseInputModeChanged(bool fMouseModeRelative)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnServiceMessageReceived(string serviceMessage)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnConnectionBarPullDown()
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnNetworkStatusChanged(uint qualityLevel, int bandwidth, int rtt)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnDevicesButtonPressed()
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnAutoReconnected()
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnAutoReconnecting2(int disconnectReason, bool networkAvailable, int attemptCount, int maxAttemptCount)
+		{
+			throw new System.NotImplementedException();
+		}
+	}
     
     [System.Windows.Forms.AxHost.ClsidAttribute("{7cacbd7b-0d99-468f-ac33-22e495c0afe5}")]
     [System.ComponentModel.DesignTimeVisibleAttribute(true)]
@@ -1310,7 +1402,97 @@ namespace AxMSTSCLib {
             this.parent.RaiseOnOnAutoReconnecting(this.parent, onautoreconnectingEvent);
             pArcContinueStatus = onautoreconnectingEvent.pArcContinueStatus;
         }
-    }
+
+		public bool OnConfirmClose()
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public bool OnReceivedTSPublicKey(string publicKey)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public AutoReconnectContinueState OnAutoReconnecting(int disconnectReason, int attemptCount)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnAuthenticationWarningDisplayed()
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnAuthenticationWarningDismissed()
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnRemoteProgramResult(string bstrRemoteProgram, RemoteProgramResult lError, bool vbIsExecutable)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnRemoteProgramDisplayed(bool vbDisplayed, uint uDisplayInformation)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnRemoteWindowDisplayed(bool vbDisplayed, ref _RemotableHandle hwnd, RemoteWindowDisplayedAttribute windowAttribute)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnLogonError(int lError)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnFocusReleased(int iDirection)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnUserNameAcquired(string bstrUserName)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnMouseInputModeChanged(bool fMouseModeRelative)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnServiceMessageReceived(string serviceMessage)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnConnectionBarPullDown()
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnNetworkStatusChanged(uint qualityLevel, int bandwidth, int rtt)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnDevicesButtonPressed()
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnAutoReconnected()
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnAutoReconnecting2(int disconnectReason, bool networkAvailable, int attemptCount, int maxAttemptCount)
+		{
+			throw new System.NotImplementedException();
+		}
+	}
     
     [System.Windows.Forms.AxHost.ClsidAttribute("{3523c2fb-4031-44e4-9a3b-f1e94986ee7f}")]
     [System.ComponentModel.DesignTimeVisibleAttribute(true)]
@@ -1984,5 +2166,95 @@ namespace AxMSTSCLib {
             this.parent.RaiseOnOnAutoReconnecting(this.parent, onautoreconnectingEvent);
             pArcContinueStatus = onautoreconnectingEvent.pArcContinueStatus;
         }
-    }
+
+		public bool OnConfirmClose()
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public bool OnReceivedTSPublicKey(string publicKey)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public AutoReconnectContinueState OnAutoReconnecting(int disconnectReason, int attemptCount)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnAuthenticationWarningDisplayed()
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnAuthenticationWarningDismissed()
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnRemoteProgramResult(string bstrRemoteProgram, RemoteProgramResult lError, bool vbIsExecutable)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnRemoteProgramDisplayed(bool vbDisplayed, uint uDisplayInformation)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnRemoteWindowDisplayed(bool vbDisplayed, ref _RemotableHandle hwnd, RemoteWindowDisplayedAttribute windowAttribute)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnLogonError(int lError)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnFocusReleased(int iDirection)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnUserNameAcquired(string bstrUserName)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnMouseInputModeChanged(bool fMouseModeRelative)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnServiceMessageReceived(string serviceMessage)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnConnectionBarPullDown()
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnNetworkStatusChanged(uint qualityLevel, int bandwidth, int rtt)
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnDevicesButtonPressed()
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnAutoReconnected()
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void OnAutoReconnecting2(int disconnectReason, bool networkAvailable, int attemptCount, int maxAttemptCount)
+		{
+			throw new System.NotImplementedException();
+		}
+	}
 }
