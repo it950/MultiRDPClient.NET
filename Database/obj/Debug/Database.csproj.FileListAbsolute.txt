@@ -5,3 +5,18 @@ E:\Codes\Multi Remote Desktop Client .NET\Database\bin\Debug\RijndaelEncryptDecr
 E:\Codes\Multi Remote Desktop Client .NET\Database\obj\Debug\ResolveAssemblyReference.cache
 E:\Codes\Multi Remote Desktop Client .NET\Database\obj\Debug\Database.dll
 E:\Codes\Multi Remote Desktop Client .NET\Database\obj\Debug\Database.pdb
+C:\Users\gang\source\MultiRDPClient.NET\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\gang\source\MultiRDPClient.NET\Database\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\gang\source\MultiRDPClient.NET\Database\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\gang\source\MultiRDPClient.NET\Database\bin\Debug\Database.dll.config
+C:\Users\gang\source\MultiRDPClient.NET\Database\bin\Debug\Database.dll
+C:\Users\gang\source\MultiRDPClient.NET\Database\bin\Debug\Database.pdb
+C:\Users\gang\source\MultiRDPClient.NET\Database\bin\Debug\RijndaelEncryptDecrypt.dll
+C:\Users\gang\source\MultiRDPClient.NET\Database\bin\Debug\System.Data.SQLite.dll
+C:\Users\gang\source\MultiRDPClient.NET\Database\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gang\source\MultiRDPClient.NET\Database\bin\Debug\RijndaelEncryptDecrypt.pdb
+C:\Users\gang\source\MultiRDPClient.NET\Database\bin\Debug\System.Data.SQLite.xml
+C:\Users\gang\source\MultiRDPClient.NET\Database\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\gang\source\MultiRDPClient.NET\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\gang\source\MultiRDPClient.NET\Database\obj\Debug\Database.dll
+C:\Users\gang\source\MultiRDPClient.NET\Database\obj\Debug\Database.pdb

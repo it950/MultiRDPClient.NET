@@ -43,3 +43,19 @@ E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\obj\Debug\MultiRem
 E:\Codes\Windows Desktop\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\MultiRemoteDesktopClient.exe.config
 E:\Codes\Windows Desktop\Multi Remote Desktop Client .NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.exe
 E:\Codes\Windows Desktop\Multi Remote Desktop Client .NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.pdb
+C:\Users\gang\source\MultiRDPClient.NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.csprojAssemblyReference.cache
+C:\Users\gang\source\MultiRDPClient.NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.Controls.RDThumbnail.resources
+C:\Users\gang\source\MultiRDPClient.NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.ConfigurationWindow.resources
+C:\Users\gang\source\MultiRDPClient.NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.AboutWindow.resources
+C:\Users\gang\source\MultiRDPClient.NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.ExportWindow.resources
+C:\Users\gang\source\MultiRDPClient.NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.ImportWindow.resources
+C:\Users\gang\source\MultiRDPClient.NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.RdpClientWindow.resources
+C:\Users\gang\source\MultiRDPClient.NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.PasswordWindow.resources
+C:\Users\gang\source\MultiRDPClient.NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.GroupManagerWindow.resources
+C:\Users\gang\source\MultiRDPClient.NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.PopupMDIContainer.resources
+C:\Users\gang\source\MultiRDPClient.NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.Properties.Resources.resources
+C:\Users\gang\source\MultiRDPClient.NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.RemoteDesktopClient.resources
+C:\Users\gang\source\MultiRDPClient.NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.ServerSettingsWindow.resources
+C:\Users\gang\source\MultiRDPClient.NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.SplashScreenWindow.resources
+C:\Users\gang\source\MultiRDPClient.NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.RDThumbnailsWindow.resources
+C:\Users\gang\source\MultiRDPClient.NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.csproj.GenerateResource.cache

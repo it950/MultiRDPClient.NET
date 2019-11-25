@@ -3,3 +3,8 @@ E:\Codes\Multi Remote Desktop Client .NET\Win32APIs\bin\Debug\Win32APIs.pdb
 E:\Codes\Multi Remote Desktop Client .NET\Win32APIs\obj\Debug\ResolveAssemblyReference.cache
 E:\Codes\Multi Remote Desktop Client .NET\Win32APIs\obj\Debug\Win32APIs.dll
 E:\Codes\Multi Remote Desktop Client .NET\Win32APIs\obj\Debug\Win32APIs.pdb
+C:\Users\gang\source\MultiRDPClient.NET\Win32APIs\bin\Debug\Win32APIs.dll
+C:\Users\gang\source\MultiRDPClient.NET\Win32APIs\bin\Debug\Win32APIs.pdb
+C:\Users\gang\source\MultiRDPClient.NET\Win32APIs\obj\Debug\Win32APIs.csprojAssemblyReference.cache
+C:\Users\gang\source\MultiRDPClient.NET\Win32APIs\obj\Debug\Win32APIs.dll
+C:\Users\gang\source\MultiRDPClient.NET\Win32APIs\obj\Debug\Win32APIs.pdb

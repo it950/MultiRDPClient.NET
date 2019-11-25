@@ -3,3 +3,8 @@ E:\Codes\Multi Remote Desktop Client .NET\TextboxRequiredWrapper\bin\Debug\Textb
 E:\Codes\Multi Remote Desktop Client .NET\TextboxRequiredWrapper\obj\Debug\ResolveAssemblyReference.cache
 E:\Codes\Multi Remote Desktop Client .NET\TextboxRequiredWrapper\obj\Debug\TextboxRequiredWrapper.dll
 E:\Codes\Multi Remote Desktop Client .NET\TextboxRequiredWrapper\obj\Debug\TextboxRequiredWrapper.pdb
+C:\Users\gang\source\MultiRDPClient.NET\TextboxRequiredWrapper\bin\Debug\TextboxRequiredWrapper.dll
+C:\Users\gang\source\MultiRDPClient.NET\TextboxRequiredWrapper\bin\Debug\TextboxRequiredWrapper.pdb
+C:\Users\gang\source\MultiRDPClient.NET\TextboxRequiredWrapper\obj\Debug\TextboxRequiredWrapper.csprojAssemblyReference.cache
+C:\Users\gang\source\MultiRDPClient.NET\TextboxRequiredWrapper\obj\Debug\TextboxRequiredWrapper.dll
+C:\Users\gang\source\MultiRDPClient.NET\TextboxRequiredWrapper\obj\Debug\TextboxRequiredWrapper.pdb

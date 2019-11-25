@@ -3,3 +3,8 @@ E:\Codes\Multi Remote Desktop Client .NET\RDPReader\bin\Debug\RDPReader.pdb
 E:\Codes\Multi Remote Desktop Client .NET\RDPReader\obj\Debug\ResolveAssemblyReference.cache
 E:\Codes\Multi Remote Desktop Client .NET\RDPReader\obj\Debug\RDPReader.dll
 E:\Codes\Multi Remote Desktop Client .NET\RDPReader\obj\Debug\RDPReader.pdb
+C:\Users\gang\source\MultiRDPClient.NET\RDPReader\bin\Debug\RDPReader.dll
+C:\Users\gang\source\MultiRDPClient.NET\RDPReader\bin\Debug\RDPReader.pdb
+C:\Users\gang\source\MultiRDPClient.NET\RDPReader\obj\Debug\RDPReader.csprojAssemblyReference.cache
+C:\Users\gang\source\MultiRDPClient.NET\RDPReader\obj\Debug\RDPReader.dll
+C:\Users\gang\source\MultiRDPClient.NET\RDPReader\obj\Debug\RDPReader.pdb

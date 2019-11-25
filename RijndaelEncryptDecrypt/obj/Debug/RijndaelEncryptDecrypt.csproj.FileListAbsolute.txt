@@ -3,3 +3,8 @@ E:\Codes\Multi Remote Desktop Client .NET\RijndaelEncryptDecrypt\bin\Debug\Rijnd
 E:\Codes\Multi Remote Desktop Client .NET\RijndaelEncryptDecrypt\obj\Debug\ResolveAssemblyReference.cache
 E:\Codes\Multi Remote Desktop Client .NET\RijndaelEncryptDecrypt\obj\Debug\RijndaelEncryptDecrypt.dll
 E:\Codes\Multi Remote Desktop Client .NET\RijndaelEncryptDecrypt\obj\Debug\RijndaelEncryptDecrypt.pdb
+C:\Users\gang\source\MultiRDPClient.NET\RijndaelEncryptDecrypt\bin\Debug\RijndaelEncryptDecrypt.dll
+C:\Users\gang\source\MultiRDPClient.NET\RijndaelEncryptDecrypt\bin\Debug\RijndaelEncryptDecrypt.pdb
+C:\Users\gang\source\MultiRDPClient.NET\RijndaelEncryptDecrypt\obj\Debug\RijndaelEncryptDecrypt.csprojAssemblyReference.cache
+C:\Users\gang\source\MultiRDPClient.NET\RijndaelEncryptDecrypt\obj\Debug\RijndaelEncryptDecrypt.dll
+C:\Users\gang\source\MultiRDPClient.NET\RijndaelEncryptDecrypt\obj\Debug\RijndaelEncryptDecrypt.pdb

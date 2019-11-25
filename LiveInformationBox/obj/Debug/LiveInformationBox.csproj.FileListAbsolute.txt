@@ -8,3 +8,14 @@ E:\Codes\Multi Remote Desktop Client .NET\LiveInformationBox\obj\Debug\LiveInfor
 E:\Codes\Multi Remote Desktop Client .NET\LiveInformationBox\obj\Debug\LiveInformationBox.csproj.GenerateResource.Cache
 E:\Codes\Multi Remote Desktop Client .NET\LiveInformationBox\obj\Debug\LiveInformationBox.dll
 E:\Codes\Multi Remote Desktop Client .NET\LiveInformationBox\obj\Debug\LiveInformationBox.pdb
+C:\Users\gang\source\MultiRDPClient.NET\LiveInformationBox\bin\Debug\LiveInformationBox.dll
+C:\Users\gang\source\MultiRDPClient.NET\LiveInformationBox\bin\Debug\LiveInformationBox.pdb
+C:\Users\gang\source\MultiRDPClient.NET\LiveInformationBox\bin\Debug\Win32APIs.dll
+C:\Users\gang\source\MultiRDPClient.NET\LiveInformationBox\bin\Debug\Win32APIs.pdb
+C:\Users\gang\source\MultiRDPClient.NET\LiveInformationBox\obj\Debug\LiveInformationBox.csprojAssemblyReference.cache
+C:\Users\gang\source\MultiRDPClient.NET\LiveInformationBox\obj\Debug\LiveInformationBox.InfoWindow.resources
+C:\Users\gang\source\MultiRDPClient.NET\LiveInformationBox\obj\Debug\LiveInformationBox.Properties.Resources.resources
+C:\Users\gang\source\MultiRDPClient.NET\LiveInformationBox\obj\Debug\LiveInformationBox.csproj.GenerateResource.cache
+C:\Users\gang\source\MultiRDPClient.NET\LiveInformationBox\obj\Debug\LiveInformationBox.csproj.CopyComplete
+C:\Users\gang\source\MultiRDPClient.NET\LiveInformationBox\obj\Debug\LiveInformationBox.dll
+C:\Users\gang\source\MultiRDPClient.NET\LiveInformationBox\obj\Debug\LiveInformationBox.pdb
