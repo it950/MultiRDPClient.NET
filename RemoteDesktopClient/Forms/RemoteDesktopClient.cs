@@ -79,9 +79,10 @@ namespace MultiRemoteDesktopClient
             #region Informatin Window
             {
                 GlobalHelper.infoWin.EnableInformationWindow = !GlobalHelper.appSettings.Settings.HideInformationPopupWindow;
-                GlobalHelper.infoWin.AddControl(new object[] {
-                    this.lvServerLists,
-                    this.tlvServerLists,
+				//disable lvServerLists and tlVserverLists popup info when hover on it 2019-12-04
+				GlobalHelper.infoWin.AddControl(new object[] {
+                    //this.lvServerLists,
+                    //this.tlvServerLists,
                     this.toolbar_EditSettings
                 });
             }
@@ -150,8 +151,9 @@ namespace MultiRemoteDesktopClient
 
             this._lastPanelWidth = this.panelServerLists.Width;
 
-            // change server list view
-            IconViews(this.toolbar_SLIV_Tree, null);
+			// change server list view
+			// change from toolbar_SLIV_Tree to toolbar_SLIV_Tile 2019-12-04
+			IconViews(this.toolbar_SLIV_Tile, null);
 
             // show thumbnail form;
             //RDThumbnailsWindow rdtnwin = new RDThumbnailsWindow();
