@@ -132,8 +132,10 @@ namespace MultiRemoteDesktopClient
 
         private void ShowNewForm(object sender, EventArgs e)
         {
-            ServerSettingsWindow ssw = new ServerSettingsWindow();
-            ssw.ShowDialog();
+			//use the static DefaultWindow for keep state which you input recently
+			ServerSettingsWindow ssw = ServerSettingsWindow.DefaultWindow;//new ServerSettingsWindow();
+
+			ssw.ShowDialog();
 
             GetServerLists();
         }

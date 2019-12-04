@@ -6,14 +6,17 @@ using TextboxRequiredWrappers;
 namespace MultiRemoteDesktopClient
 {
     public delegate void ApplySettings(object sender, Database.ServerDetails sd);
-    public delegate Rectangle GetClientWindowSize();
-
-    public partial class ServerSettingsWindow : Form
+    public delegate Rectangle GetClientWindowSize();	
+	public partial class ServerSettingsWindow : Form
     {
         public event ApplySettings ApplySettings;
         public event GetClientWindowSize GetClientWindowSize;
+		//add a default window for efectivly add server,
+		//everytime popup a window for you to input server info,the latest input value will keep remained
+		//you donot need retype again from scratch,only change few of filed value
+		public static ServerSettingsWindow DefaultWindow = new ServerSettingsWindow();
 
-        TextboxRequiredWrapper trw = new TextboxRequiredWrapper();
+		TextboxRequiredWrapper trw = new TextboxRequiredWrapper();
         Database.ServerDetails oldSD;
 
         private bool isUpdating = false;
@@ -30,11 +33,11 @@ namespace MultiRemoteDesktopClient
             InitializeComponent();
             InitializeControls(sd);
             InitializeControlEvents();
-        }
+        }		
 
         public void InitializeControls()
         {
-            trw.AddRange(new Control[] {
+			trw.AddRange(new Control[] {
                 txServername,
                 txComputer,
                 txUsername,
@@ -211,7 +214,7 @@ namespace MultiRemoteDesktopClient
                             ApplySettings(sender, this.oldSD);
                         }
                     }
-
+					//change from close to hide
                     this.Close();
                 }
                 else
