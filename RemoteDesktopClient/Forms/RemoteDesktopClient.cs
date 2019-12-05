@@ -79,11 +79,11 @@ namespace MultiRemoteDesktopClient
             #region Informatin Window
             {
                 GlobalHelper.infoWin.EnableInformationWindow = !GlobalHelper.appSettings.Settings.HideInformationPopupWindow;
-				//disable lvServerLists and tlVserverLists popup info when hover on it 2019-12-04
-				GlobalHelper.infoWin.AddControl(new object[] {
+                //disable popup info when hover on these controls 2019-12-05
+                GlobalHelper.infoWin.AddControl(new object[] {
                     //this.lvServerLists,
                     //this.tlvServerLists,
-                    this.toolbar_EditSettings
+                    //this.toolbar_EditSettings
                 });
             }
             #endregion

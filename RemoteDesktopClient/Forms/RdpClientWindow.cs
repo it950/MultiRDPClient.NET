@@ -51,8 +51,9 @@ namespace MultiRemoteDesktopClient
 
         public void InitializeControl(Database.ServerDetails sd)
         {
+            //disable popup info when hover on this control 2019-12-05
             GlobalHelper.infoWin.AddControl(new object[] {
-                btnFitToScreen
+                //btnFitToScreen
             });
 
             this._sd = sd;
