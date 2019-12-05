@@ -42,8 +42,9 @@ namespace MultiRemoteDesktopClient
 
         protected override void OnCreateMainForm()
         {
-            SplashScreenWindow ssw = new SplashScreenWindow();
-            ssw.ShowDialog();
+            //comment the splash screen window for startup speed quickly 2019-12-05
+            //SplashScreenWindow ssw = new SplashScreenWindow();
+            //ssw.ShowDialog();
 
             this.MainForm = new RemoteDesktopClient();
         }

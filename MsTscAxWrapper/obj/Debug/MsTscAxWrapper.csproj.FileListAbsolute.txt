@@ -4,7 +4,6 @@ E:\Codes\Multi Remote Desktop Client .NET\MsTscAxWrapper\bin\Debug\MSTSCLib.dll
 E:\Codes\Multi Remote Desktop Client .NET\MsTscAxWrapper\obj\Debug\ResolveAssemblyReference.cache
 E:\Codes\Multi Remote Desktop Client .NET\MsTscAxWrapper\obj\Debug\MsTscAxWrapper.dll
 E:\Codes\Multi Remote Desktop Client .NET\MsTscAxWrapper\obj\Debug\MsTscAxWrapper.pdb
-C:\Users\gang\source\MultiRDPClient.NET\MsTscAxWrapper\obj\Debug\MsTscAxWrapper.csprojAssemblyReference.cache
 C:\Users\gang\source\MultiRDPClient.NET\MsTscAxWrapper\obj\Debug\Interop.MSTSCLib.dll
 C:\Users\gang\source\MultiRDPClient.NET\MsTscAxWrapper\obj\Debug\MsTscAxWrapper.csproj.ResolveComReference.cache
 C:\Users\gang\source\MultiRDPClient.NET\MsTscAxWrapper\bin\Debug\MsTscAxWrapper.dll

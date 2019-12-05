@@ -11,7 +11,6 @@ E:\Codes\Multi Remote Desktop Client .NET\CommonTools\obj\Debug\CommonTools.pdb
 C:\Users\gang\source\MultiRDPClient.NET\CommonTools\bin\Debug\CommonTools.dll.config
 C:\Users\gang\source\MultiRDPClient.NET\CommonTools\bin\Debug\CommonTools.dll
 C:\Users\gang\source\MultiRDPClient.NET\CommonTools\bin\Debug\CommonTools.pdb
-C:\Users\gang\source\MultiRDPClient.NET\CommonTools\obj\Debug\CommonTools.csprojAssemblyReference.cache
 C:\Users\gang\source\MultiRDPClient.NET\CommonTools\obj\Debug\CommonTools.ColorPickerCtrl.resources
 C:\Users\gang\source\MultiRDPClient.NET\CommonTools\obj\Debug\CommonTools.ColorPickerDialog.resources
 C:\Users\gang\source\MultiRDPClient.NET\CommonTools\obj\Debug\CommonTools.ColorWheelCtrl.resources
